@@ -7,6 +7,7 @@
 - [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for extended control over webviews.
 - [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
 - [jsflags](https://github.com/LQR471814/jsflags) - the best typescript CLI flags parsing library.
+- [ax-distiller](https://github.com/LQR471814/ax-distiller) - converts websites to markdown using the accessibility tree.
 - [diff-headers](https://github.com/LQR471814/diff-headers) - a simple CLI utility to compare headers dumped from 2 HTTP requests, useful for web scraping.
 - [music-dlp](https://github.com/LQR471814/music-dlp) - a wrapper CLI utility around [yt-dlp](https://github.com/yt-dlp/yt-dlp) that makes it more convenient to download music and add metadata to it.
 - [remixicon-cli](https://github.com/LQR471814/remixicon-cli) - a CLI utility that makes it easy to import RemixIcon icons.
