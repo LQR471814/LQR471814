@@ -13,8 +13,7 @@
 - [remixicon-cli](https://github.com/LQR471814/remixicon-cli) - a CLI utility that makes it easy to import RemixIcon icons.
 - [grpcboot](https://github.com/LQR471814/grpcboot) - a golang library that makes it easier to set up `grpc-web` servers.
 - [measure-detection](https://github.com/LQR471814/measure-detection) - a music score measure detection model for typeset scores.
-- [Bookmarklets](https://github.com/LQR471814/Bookmarklets) - a collection of bookmarklets (Note, Tetris).
-- [bookmarklet-template](https://github.com/LQR471814/bookmarklet-template) - a template for bookmarklets and a few examples.
+- [bookmarklets](https://github.com/LQR471814/bookmarklets) - a collection of bookmarklets.
 - [MiniPrograms](https://github.com/LQR471814/MiniPrograms) - small programs in python (Ascii Art from Image, Ascii Art Viewer, CPS Increaser).
 - [marionette](https://github.com/LQR471814/marionette) - a golang package for manipulating the default browser cross platform.
 - [Flex-Timer](https://github.com/LQR471814/Flex-Timer) - a web app that allows for multiple simultaneous timers.
