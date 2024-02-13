@@ -4,6 +4,7 @@
 
 - [filesharing](https://github.com/LQR471814/filesharing) - a self-hosted website that allows you to share files with peers who can also access the website.
 - [web-media-stream](https://github.com/LQR471814/web-media-stream) - a self-hosted website that allows you to share video/audio over the network via web-rtc.
+- [jscomptime](https://github.com/LQR471814/jscomptime) - a transpiler which adds compile time metaprogramming to javascript.
 - [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for extended control over webviews.
 - [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
 - [jsflags](https://github.com/LQR471814/jsflags) - the best typescript CLI flags parsing library.
