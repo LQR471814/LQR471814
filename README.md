@@ -3,7 +3,7 @@
 ##### *repos that are actually useful*
 
 - [filesharing](https://github.com/LQR471814/filesharing) - a self-hosted website that allows you to share files with peers who can also access the website.
-- [anicli-web](https://github.com/LQR471814/anicli-web) - an ultra-minimal web interface for watching anime.
+- [anipy-web](https://github.com/LQR471814/anipy-web) - an ultra-minimal web interface for watching anime, based on `anipy-cli`.
 - [web-media-stream](https://github.com/LQR471814/web-media-stream) - a self-hosted website that allows you to share video/audio over the network via web-rtc.
 - [jscomptime](https://github.com/LQR471814/jscomptime) - a transpiler which adds compile time metaprogramming to javascript.
 - [dead-simple-auth](https://github.com/LQR471814/dead-simple-auth) - a dead simple HTTP authenticator reverse proxy.
