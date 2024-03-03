@@ -3,6 +3,7 @@
 ##### *repos that are actually useful*
 
 - [filesharing](https://github.com/LQR471814/filesharing) - a self-hosted website that allows you to share files with peers who can also access the website.
+- [midi-recorder-daemon](https://github.com/LQR471814/midi-recorder-daemon) - an application that automatically records and saves midi in the background. useful if you spontaneously improvise often. 
 - [anipy-web](https://github.com/LQR471814/anipy-web) - an ultra-minimal web interface for watching anime, based on [anipy-cli](https://github.com/sdaqo/anipy-cli/tree/master).
 - [web-media-stream](https://github.com/LQR471814/web-media-stream) - a self-hosted website that allows you to share video/audio over the network via web-rtc.
 - [jscomptime](https://github.com/LQR471814/jscomptime) - a transpiler which adds compile time metaprogramming to javascript.
