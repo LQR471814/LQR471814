@@ -2,16 +2,16 @@
 
 ##### *repos that are actually useful*
 
+- [sqlc-joins-gen](https://github.com/LQR471814/sqlc-joins-gen) - a code generator to make relational queries easier for sqlc. similar to drizzle-orm's query api.
+- [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
 - [filesharing](https://github.com/LQR471814/filesharing) - a self-hosted website that allows you to share files with peers who can also access the website.
 - [midi-recorder-daemon](https://github.com/LQR471814/midi-recorder-daemon) - an application that automatically records and saves midi in the background. useful if you spontaneously improvise often. 
-- [anipy-web](https://github.com/LQR471814/anipy-web) - an ultra-minimal web interface for watching anime, based on [anipy-cli](https://github.com/sdaqo/anipy-cli/tree/master).
-- [web-media-stream](https://github.com/LQR471814/web-media-stream) - a self-hosted website that allows you to share video/audio over the network via web-rtc.
-- [jscomptime](https://github.com/LQR471814/jscomptime) - a transpiler which adds compile time metaprogramming to javascript.
-- [dead-simple-auth](https://github.com/LQR471814/dead-simple-auth) - a dead simple HTTP authenticator reverse proxy.
-- [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
 - [jsflags](https://github.com/LQR471814/jsflags) - the best typescript CLI flags parsing library.
 - [ax-distiller](https://github.com/LQR471814/ax-distiller) - converts websites to markdown using the accessibility tree.
+- [web-media-stream](https://github.com/LQR471814/web-media-stream) - a self-hosted website that allows you to share video/audio over the network via web-rtc.
+- [dead-simple-auth](https://github.com/LQR471814/dead-simple-auth) - a dead simple HTTP authenticator reverse proxy.
 - [diff-headers](https://github.com/LQR471814/diff-headers) - a simple CLI utility to compare headers dumped from 2 HTTP requests, useful for web scraping.
+- [anipy-web](https://github.com/LQR471814/anipy-web) - an ultra-minimal web interface for watching anime, based on [anipy-cli](https://github.com/sdaqo/anipy-cli/tree/master).
 - [music-dlp](https://github.com/LQR471814/music-dlp) - a wrapper CLI utility around [yt-dlp](https://github.com/yt-dlp/yt-dlp) that makes it more convenient to download music and add metadata to it.
 - [remixicon-cli](https://github.com/LQR471814/remixicon-cli) - a CLI utility that makes it easy to import RemixIcon icons.
 - [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for extended control over webviews.
@@ -27,6 +27,7 @@
 
 ##### *experiments*
 
+- [jscomptime](https://github.com/LQR471814/jscomptime) - a transpiler which adds compile time metaprogramming to javascript.
 - [research-toolkit](https://github.com/LQR471814/research-toolkit) - information extraction and LLM experiments.
 - [web-go](https://github.com/LQR471814/web-go) - a golang rendering framework, similar to react, powered by wasm.
 - [fourier-image](https://github.com/LQR471814/fourier-image) - generate equations that will trace an image.
