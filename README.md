@@ -39,3 +39,10 @@
 - [Fractle-Turtle](https://github.com/LQR471814/Fractal-Turtle) - Draw fractals with python turtle.
 - [Go-3D](https://github.com/LQR471814/Go-3D) - A 3D engine in Golang and SDL.
 - [Blastar Remastered](https://github.com/LQR471814/Blastar-Remastered) - A remastered version of the blastar game.
+
+##### *.config files*
+
+- [neovim](https://github.com/LQR471814/dotconfig.nvim)
+- [tmux](https://github.com/LQR471814/dotconfig.tmux)
+- [alacritty](https://github.com/LQR471814/dotconfig.alacritty)
+- [zsh](https://github.com/LQR471814/dotconfig.zsh)
