@@ -2,6 +2,7 @@
 
 ##### *repos that are actually useful*
 
+- [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform. 
 - [sqlc-joins-gen](https://github.com/LQR471814/sqlc-joins-gen) - a code generator to make relational queries easier for sqlc. similar to drizzle-orm's query api.
 - [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
 - [filesharing](https://github.com/LQR471814/filesharing) - a self-hosted website that allows you to share files with peers who can also access the website.
