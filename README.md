@@ -43,7 +43,11 @@
 
 ##### *.config files*
 
+- [init-scripts](https://github.com/LQR471814/init-scripts)
 - [neovim](https://github.com/LQR471814/dotconfig.nvim)
 - [tmux](https://github.com/LQR471814/dotconfig.tmux)
 - [alacritty](https://github.com/LQR471814/dotconfig.alacritty)
-- [zsh](https://github.com/LQR471814/dotconfig.zsh)
+- [picom](https://github.com/LQR471814/dotconfig.picom)
+- [dwm](https://github.com/LQR471814/dotconfig.dwm)
+- [dwm-bar](https://github.com/LQR471814/dotconfig.dwm-bar)
+- [ublock origin](https://github.com/LQR471814/dotconfig.ublock-origin)
