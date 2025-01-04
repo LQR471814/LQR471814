@@ -1,6 +1,4 @@
-> I have no idea what I'm doing.
-
-##### *repos that are actually useful*
+##### *potentially useful*
 
 - [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform. 
 - [sqlc-joins-gen](https://github.com/LQR471814/sqlc-joins-gen) - a code generator to make relational queries easier for sqlc. similar to drizzle-orm's query api.
