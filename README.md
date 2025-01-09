@@ -41,6 +41,6 @@
 
 ##### *configuration files*
 
-- [nix home-manager](https://github.com/LQR471814/home-manager-config)
+- [nix home-manager](https://github.com/LQR471814/config.home-manager)
 - [neovim](https://github.com/LQR471814/config.nvim)
 - [ublock origin](https://github.com/LQR471814/config.ublock-origin)
