@@ -39,13 +39,8 @@
 - [Go-3D](https://github.com/LQR471814/Go-3D) - A 3D engine in Golang and SDL.
 - [Blastar Remastered](https://github.com/LQR471814/Blastar-Remastered) - A remastered version of the blastar game.
 
-##### *.config files*
+##### *configuration files*
 
-- [init-scripts](https://github.com/LQR471814/init-scripts)
-- [neovim](https://github.com/LQR471814/dotconfig.nvim)
-- [tmux](https://github.com/LQR471814/dotconfig.tmux)
-- [alacritty](https://github.com/LQR471814/dotconfig.alacritty)
-- [picom](https://github.com/LQR471814/dotconfig.picom)
-- [dwm](https://github.com/LQR471814/dotconfig.dwm)
-- [dwm-bar](https://github.com/LQR471814/dotconfig.dwm-bar)
-- [ublock origin](https://github.com/LQR471814/dotconfig.ublock-origin)
+- [nix home-manager](https://github.com/LQR471814/home-manager-config)
+- [neovim](https://github.com/LQR471814/config.nvim)
+- [ublock origin](https://github.com/LQR471814/config.ublock-origin)
