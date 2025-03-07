@@ -45,7 +45,7 @@
 - [x.fourier-image](https://github.com/LQR471814/x.fourier-image) - generate equations that will trace an image.
 - [x.webproxy](https://github.com/LQR471814/x.webproxy) - proxy a website without using an HTTP proxy.
 - [x.gimkit-strategizer](https://github.com/LQR471814/x.gimkit-strategizer) - a gpu-accelerated utility that simulates different upgrade paths and strategies in the Gimkit game to find which is most effective.
-- [x,equalizer](https://github.com/LQR471814/x.equalizer) - an attempt at implementing an equalizer.
+- [x.equalizer](https://github.com/LQR471814/x.equalizer) - an attempt at implementing an equalizer.
 
 ***configuration***
 
