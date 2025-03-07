@@ -13,9 +13,9 @@
 
 ***apps/utilities***
 
-- [filesharing](https://github.com/LQR471814/filesharing) - a self-hosted website that allows you to share files with peers who can also access the website.
+- [filesharing](https://github.com/LQR471814/filesharing) - a website that allows you to share files with peers who can also access the website.
 - [midi-recorder-daemon](https://github.com/LQR471814/midi-recorder-daemon) - an application that automatically records and saves midi in the background. useful if you spontaneously improvise often. 
-- [web-media-stream](https://github.com/LQR471814/web-media-stream) - a self-hosted website that allows you to share video/audio over the network via web-rtc.
+- [web-media-stream](https://github.com/LQR471814/web-media-stream) - a website that allows you to share video/audio over the network via web-rtc.
 - [anipy-web](https://github.com/LQR471814/anipy-web) - an ultra-minimal web interface for watching anime, based on [anipy-cli](https://github.com/sdaqo/anipy-cli/tree/master).
 - [music-dlp](https://github.com/LQR471814/music-dlp) - a wrapper CLI utility around [yt-dlp](https://github.com/yt-dlp/yt-dlp) that makes it more convenient to download music and add metadata to it.
 - [remixicon-cli](https://github.com/LQR471814/remixicon-cli) - a CLI utility that makes it easy to import RemixIcon icons.
@@ -31,11 +31,11 @@
 
 ***"fun"***
 
-- [Curve-Tortoise](https://github.com/LQR471814/Curve-Tortoise) - Draw bezier curves with python turtle.
-- [Fractle-Turtle](https://github.com/LQR471814/Fractal-Turtle) - Draw fractals with python turtle.
-- [Go-3D](https://github.com/LQR471814/Go-3D) - A 3D engine in Golang and SDL.
-- [Blastar Remastered](https://github.com/LQR471814/Blastar-Remastered) - A remastered version of the blastar game.
-- [MiniPrograms](https://github.com/LQR471814/MiniPrograms) - small programs in python (Ascii Art from Image, Ascii Art Viewer, CPS Increaser).
+- [Curve-Tortoise](https://github.com/LQR471814/Curve-Tortoise) - draw bezier curves with python turtle.
+- [Fractle-Turtle](https://github.com/LQR471814/Fractal-Turtle) - draw fractals with python turtle.
+- [Go-3D](https://github.com/LQR471814/Go-3D) - a 3D engine in Golang and SDL.
+- [Blastar Remastered](https://github.com/LQR471814/Blastar-Remastered) - a remastered version of the blastar game.
+- [MiniPrograms](https://github.com/LQR471814/MiniPrograms) - small programs in python (ascii art from image, ascii art viewer, cps increaser).
 
 ***experiments***
 
