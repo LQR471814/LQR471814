@@ -1,4 +1,4 @@
-***development related***
+**development related**
 
 - [sqlc-joins-gen](https://github.com/LQR471814/sqlc-joins-gen) - a code generator to make relational queries easier for sqlc. similar to drizzle-orm's query api.
 - [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform. 
@@ -11,7 +11,7 @@
 - [grpcboot](https://github.com/LQR471814/grpcboot) - a golang library that makes it easier to set up `grpc-web` servers.
 - [marionette](https://github.com/LQR471814/marionette) - a golang package for manipulating the default browser cross platform.
 
-***apps/utilities***
+**apps/utilities**
 
 - [filesharing](https://github.com/LQR471814/filesharing) - a website that allows you to share files with peers who can also access the website.
 - [midi-recorder-daemon](https://github.com/LQR471814/midi-recorder-daemon) - an application that automatically records and saves midi in the background. useful if you spontaneously improvise often. 
@@ -25,11 +25,11 @@
 - [Chinese-Pinyin-Symbol-Macro](https://github.com/LQR471814/Chinese-Pinyin-Symbol-Macro) - an autohotkey script that adds hotkeys for chinese pinyin symbols.
 - [Blender-Addons](https://github.com/LQR471814/Blender-Addons) - blender addons (Add modifier, Swap vertex groups, Select vertex group by name).
 
-***ai-related (sigh...)***
+**ai-related (sigh...)**
 
 - [measure-detection](https://github.com/LQR471814/measure-detection) - a music score measure detection model for typeset scores.
 
-***"fun"***
+**"fun"**
 
 - [Curve-Tortoise](https://github.com/LQR471814/Curve-Tortoise) - draw bezier curves with python turtle.
 - [Fractle-Turtle](https://github.com/LQR471814/Fractal-Turtle) - draw fractals with python turtle.
@@ -37,7 +37,7 @@
 - [Blastar Remastered](https://github.com/LQR471814/Blastar-Remastered) - a remastered version of the blastar game.
 - [MiniPrograms](https://github.com/LQR471814/MiniPrograms) - small programs in python (ascii art from image, ascii art viewer, cps increaser).
 
-***experiments***
+**experiments**
 
 - [x.jscomptime](https://github.com/LQR471814/x.jscomptime) - a transpiler which adds compile time metaprogramming to javascript.
 - [x.information-extraction](https://github.com/LQR471814/x.information-extraction) - information extraction and LLM experiments.
@@ -47,7 +47,7 @@
 - [x.gimkit-strategizer](https://github.com/LQR471814/x.gimkit-strategizer) - a gpu-accelerated utility that simulates different upgrade paths and strategies in the Gimkit game to find which is most effective.
 - [x.equalizer](https://github.com/LQR471814/x.equalizer) - an attempt at implementing an equalizer.
 
-***configuration***
+**configuration**
 
 - [config.home-manager](https://github.com/LQR471814/config.home-manager)
 - [config.nvim](https://github.com/LQR471814/config.nvim)
