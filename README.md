@@ -26,6 +26,7 @@
 
 **misc. tools**
 
+- [thunderbird-vim](https://github.com/LQR471814/thunderbird-vim) -  vim-like hotkeys for thunderbird.
 - [midi-recorder-daemon](https://github.com/LQR471814/midi-recorder-daemon) - an application that automatically records and saves midi in the background. useful if you spontaneously improvise often. 
 - [web-media-stream](https://github.com/LQR471814/web-media-stream) - a website that allows you to share video/audio over the network via web-rtc.
 - [anipy-web](https://github.com/LQR471814/anipy-web) - an ultra-minimal web interface for watching anime, based on [anipy-cli](https://github.com/sdaqo/anipy-cli/tree/master).
