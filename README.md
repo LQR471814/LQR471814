@@ -6,7 +6,7 @@
 **configuration**
 
 - [config.home-manager](https://github.com/LQR471814/config.home-manager) - nix home-manager config.
-- [config.home-manager](https://github.com/LQR471814/config.nixos) - nixos config.
+- [config.nixos](https://github.com/LQR471814/config.nixos) - nixos config.
 - [config.nvim](https://github.com/LQR471814/config.nvim) - neovim config.
 - [config.ublock-origin](https://github.com/LQR471814/config.ublock-origin) - ublock origin config.
 
