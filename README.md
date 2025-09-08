@@ -2,6 +2,7 @@
 
 - [vc-assist](https://github.com/vc-assist) - the vc-assist full-stack application.
 - [studyap](https://github.com/LQR471814/studyap) - the original source of studyap.org.
+- [event-scheduler](https://github.com/VCHS-DECA-Software/Event-Scheduler) - mock DECA conferences.
 - [filesharing](https://github.com/LQR471814/filesharing) - a website that allows you to share files with peers who can also access the website.
 - [calstats](https://github.com/LQR471814/calstats) - visualize the time you spend doing things from your calendar.
 
