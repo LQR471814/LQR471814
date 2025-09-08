@@ -1,9 +1,9 @@
 **apps**
 
 - [vc-assist](https://github.com/vc-assist) - the vc-assist full-stack application.
+- [studyap](https://github.com/LQR471814/studyap) - the original source of studyap.org.
 - [filesharing](https://github.com/LQR471814/filesharing) - a website that allows you to share files with peers who can also access the website.
 - [calstats](https://github.com/LQR471814/calstats) - visualize the time you spend doing things from your calendar.
-- [studyap](https://github.com/LQR471814/studyap) - the original source of studyap.org.
 
 **development**
 
