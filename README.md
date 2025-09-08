@@ -10,10 +10,11 @@
 - [config.nvim](https://github.com/LQR471814/config.nvim) - neovim config.
 - [config.ublock-origin](https://github.com/LQR471814/config.ublock-origin) - ublock origin config.
 
-**development tools**
+**development**
 
 - [scavenge](https://github.com/LQR471814/scavenge) - a fast, robust, and feature complete golang scraping library.
 - [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav.
+- [wavelet-tree](https://github.com/LQR471814/wavelet-tree) - an implementation of the wavelet tree datastructure in golang.
 - [sqlc-joins-gen](https://github.com/LQR471814/sqlc-joins-gen) - a code generator to make relational queries easier for sqlc. similar to drizzle-orm's query api.
 - [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
 - [jsflags](https://github.com/LQR471814/jsflags) - the best typescript CLI flags parsing library.
