@@ -3,32 +3,23 @@
 - [vc-assist](https://github.com/vc-assist) - the vc-assist full-stack application.
 - [filesharing](https://github.com/LQR471814/filesharing) - a website that allows you to share files with peers who can also access the website.
 
-**configuration**
-
-- [config.home-manager](https://github.com/LQR471814/config.home-manager) - nix home-manager config.
-- [config.nixos](https://github.com/LQR471814/config.nixos) - nixos config.
-- [config.nvim](https://github.com/LQR471814/config.nvim) - neovim config.
-- [config.ublock-origin](https://github.com/LQR471814/config.ublock-origin) - ublock origin config.
-
 **development**
 
 - [scavenge](https://github.com/LQR471814/scavenge) - a fast, robust, and feature complete golang scraping library.
 - [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav.
 - [wavelet-tree](https://github.com/LQR471814/wavelet-tree) - an efficient implementation of the wavelet tree datastructure in golang.
 - [dynamic-programming.tex](https://github.com/LQR471814/dynamic-programming.tex) - a mathematical explainer for dynamic programming.
+- [jsflags](https://github.com/LQR471814/jsflags) - a better typescript CLI flags library.
 - [sqlc-joins-gen](https://github.com/LQR471814/sqlc-joins-gen) - a code generator to make relational queries easier for sqlc. similar to drizzle-orm's query api.
 - [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
-- [jsflags](https://github.com/LQR471814/jsflags) - the best typescript CLI flags parsing library.
-- [ax-distiller](https://github.com/LQR471814/ax-distiller) - converts websites to markdown using the accessibility tree.
 - [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform. 
-- [dead-simple-auth](https://github.com/LQR471814/dead-simple-auth) - a dead simple HTTP authenticator reverse proxy.
-- [diff-headers](https://github.com/LQR471814/diff-headers) - a simple CLI utility to compare headers dumped from 2 HTTP requests, useful for web scraping.
-- [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for extended control over webviews.
+- [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for additional control over webviews.
 - [grpcboot](https://github.com/LQR471814/grpcboot) - a golang library that makes it easier to set up `grpc-web` servers.
 - [marionette](https://github.com/LQR471814/marionette) - a golang package for manipulating the default browser cross platform.
 
-**misc. tools**
+**misc.**
 
+- [ax-distiller](https://github.com/LQR471814/ax-distiller) - converts websites to markdown using the accessibility tree.
 - [calstats](https://github.com/LQR471814/calstats) - visualize the time you spend doing things from your calendar.
 - [thunderbird-vim](https://github.com/LQR471814/thunderbird-vim) -  vim-like hotkeys for thunderbird.
 - [midi-recorder-daemon](https://github.com/LQR471814/midi-recorder-daemon) - an application that automatically records and saves midi in the background. useful if you spontaneously improvise often. 
@@ -42,6 +33,13 @@
 - [Chinese-Pinyin-Symbol-Macro](https://github.com/LQR471814/Chinese-Pinyin-Symbol-Macro) - an autohotkey script that adds hotkeys for chinese pinyin symbols.
 - [Blender-Addons](https://github.com/LQR471814/Blender-Addons) - blender addons (Add modifier, Swap vertex groups, Select vertex group by name).
 
+**configuration**
+
+- [config.home-manager](https://github.com/LQR471814/config.home-manager) - nix home-manager config.
+- [config.nixos](https://github.com/LQR471814/config.nixos) - nixos config.
+- [config.nvim](https://github.com/LQR471814/config.nvim) - neovim config.
+- [config.ublock-origin](https://github.com/LQR471814/config.ublock-origin) - ublock origin config.
+
 **ai**
 
 - [measure-detection](https://github.com/LQR471814/measure-detection) - a music score measure detection model for typeset scores.
@@ -50,16 +48,13 @@
 
 - [Curve-Tortoise](https://github.com/LQR471814/Curve-Tortoise) - draw bezier curves with python turtle.
 - [Fractle-Turtle](https://github.com/LQR471814/Fractal-Turtle) - draw fractals and L-systems with python turtle.
-- [Go-3D](https://github.com/LQR471814/Go-3D) - a 3D engine in Golang and SDL.
 - [Blastar Remastered](https://github.com/LQR471814/Blastar-Remastered) - a remastered version of the blastar game.
 - [MiniPrograms](https://github.com/LQR471814/MiniPrograms) - various misc. python programs (ascii art from image, ascii art viewer, cps increaser).
 
 **experiments**
 
-- [x.jscomptime](https://github.com/LQR471814/x.jscomptime) - transpiler which adds compile time metaprogramming to javascript.
+- [x.jscomptime](https://github.com/LQR471814/x.jscomptime) - experimental transpiler to add compile time metaprogramming to javascript.
 - [x.information-extraction](https://github.com/LQR471814/x.information-extraction) - information extraction and LLM experiments.
-- [x.web-go](https://github.com/LQR471814/x.web-go) - a golang client-side web framework, similar to react, powered by wasm.
 - [x.fourier-image](https://github.com/LQR471814/x.fourier-image) - generate equations that will trace an image.
-- [x.webproxy](https://github.com/LQR471814/x.webproxy) - proxy a website without using an HTTP proxy.
+- [x.webproxy](https://github.com/LQR471814/x.webproxy) - proxy a website without needing to configure an HTTP proxy.
 - [x.gimkit-strategizer](https://github.com/LQR471814/x.gimkit-strategizer) - a gpu-accelerated (CUDA) utility that simulates different upgrade paths and strategies in the Gimkit game to find which is most effective.
-- [x.equalizer](https://github.com/LQR471814/x.equalizer) - an attempt at implementing an EQ.
