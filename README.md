@@ -2,21 +2,21 @@
 
 - [vc-assist](https://github.com/vc-assist) - the vc-assist full-stack application.
 - [studyap](https://github.com/LQR471814/studyap) - the original source of studyap.org.
-- [event-scheduler](https://github.com/VCHS-DECA-Software/Event-Scheduler) - mock DECA conferences.
-- [filesharing](https://github.com/LQR471814/filesharing) - a website that allows you to share files with peers who can also access the website.
-- [calstats](https://github.com/LQR471814/calstats) - visualize the time you spend doing things from your calendar.
+- [event-scheduler](https://github.com/VCHS-DECA-Software/Event-Scheduler) - mock DECA conferences. _[not maintained]_
+- [filesharing](https://github.com/LQR471814/filesharing) - a website that allows you to share files with peers who can also access the website. _[pending rewrite]_
+- [calstats](https://github.com/LQR471814/calstats) - visualize the time you spend doing things from your calendar. _[pending rewrite]_
 
 **development**
 
 - [scavenge](https://github.com/LQR471814/scavenge) - a fast, robust, and feature complete golang scraping library.
-- [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav.
-- [wavelet-tree](https://github.com/LQR471814/wavelet-tree) - an efficient implementation of the wavelet tree datastructure in golang.
+- [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav. _[pending rewrite]_
+- [wavelet-tree](https://github.com/LQR471814/wavelet-tree) - an efficient implementation of the wavelet tree datastructure in golang. _[wip]_
 - [dynamic-programming.tex](https://github.com/LQR471814/dynamic-programming.tex) - a mathematical explainer for dynamic programming.
 - [jsflags](https://github.com/LQR471814/jsflags) - a better typescript CLI flags library.
 - [sqlc-joins-gen](https://github.com/LQR471814/sqlc-joins-gen) - a code generator to make relational queries easier for sqlc. similar to drizzle-orm's query api.
 - [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
-- [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform. 
-- [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for additional control over webviews.
+- [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform.
+- [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for additional control over webviews. _[archived]_
 - [grpcboot](https://github.com/LQR471814/grpcboot) - a golang library that makes it easier to set up `grpc-web` servers.
 - [marionette](https://github.com/LQR471814/marionette) - a golang package for manipulating the default browser cross platform.
 
