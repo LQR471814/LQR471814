@@ -8,8 +8,8 @@
 
 **development**
 
+- [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav.
 - [scavenge](https://github.com/LQR471814/scavenge) - a fast, robust, and feature complete golang scraping library.
-- [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav. _[pending rewrite]_
 - [wavelet-tree](https://github.com/LQR471814/wavelet-tree) - an efficient implementation of the wavelet tree datastructure in golang. _[wip]_
 - [dynamic-programming.tex](https://github.com/LQR471814/dynamic-programming.tex) - a mathematical explainer for dynamic programming.
 - [jsflags](https://github.com/LQR471814/jsflags) - a better typescript CLI flags library.
