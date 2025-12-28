@@ -17,7 +17,6 @@
 - [drizzle-relations-generator](https://github.com/LQR471814/drizzle-relations-generator) - a CLI utility that allows you to generate drizzle `relations` from foreign key references.
 - [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform.
 - [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for additional control over webviews. _[archived]_
-- [grpcboot](https://github.com/LQR471814/grpcboot) - a golang library that makes it easier to set up `grpc-web` servers.
 - [marionette](https://github.com/LQR471814/marionette) - a golang package for manipulating the default browser cross platform.
 
 **ai**
