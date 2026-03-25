@@ -55,7 +55,7 @@
 **experiments**
 
 - [x.jscomptime](https://github.com/LQR471814/x.jscomptime) - experimental transpiler to add compile time metaprogramming to javascript.
-- [x.information-extraction](https://github.com/LQR471814/x.information-extraction) - information extraction and LLM experiments.
+- x.[sjsu-plan-lean](https://github.com/LQR471814/x.sjsu-plan-lean) - proving academic plans with Lean proof assistant. 
 - [x.fourier-image](https://github.com/LQR471814/x.fourier-image) - generate equations that will trace an image.
 - [x.webproxy](https://github.com/LQR471814/x.webproxy) - proxy a website without needing to configure an HTTP proxy.
 - [x.gimkit-strategizer](https://github.com/LQR471814/x.gimkit-strategizer) - a gpu-accelerated (CUDA) utility that simulates different upgrade paths and strategies in the Gimkit game to find which is most effective.
