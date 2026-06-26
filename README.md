@@ -8,8 +8,6 @@
 
 **development**
 
-- [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav.
-- [nu-type-alias](https://github.com/LQR471814/nu-type-alias) - a type alias and generics codemod for nushell.
 - [scavenge](https://github.com/LQR471814/scavenge) - a fast, robust, and feature complete golang scraping library.
 - [wavelet-tree](https://github.com/LQR471814/wavelet-tree) - an efficient implementation of the wavelet tree datastructure in golang. _[wip]_
 - [dynamic-programming.tex](https://github.com/LQR471814/dynamic-programming.tex) - a mathematical explainer for dynamic programming.
@@ -19,6 +17,12 @@
 - [protocolreg](https://github.com/LQR471814/protocolreg.git) - a golang library for registering custom url protocols cross platform.
 - [capacitor-webview-controller](https://github.com/LQR471814/capacitor-webview-controller) - a capacitor.js plugin that allows for additional control over webviews. _[archived]_
 - [marionette](https://github.com/LQR471814/marionette) - a golang package for manipulating the default browser cross platform.
+
+**nushell**
+
+- [nu_plugin_caldav](https://github.com/LQR471814/nu_plugin_caldav) - a nushell plugin for caldav.
+- [nu-type-alias](https://github.com/LQR471814/nu-type-alias) - a type alias and generics codemod for nushell.
+- [nuconv](https://github.com/LQR471814/nuconv) - a parser/serializer/type definition generator for Go's nushell plugin library (github.com/ainvaltin/nu-plugin).
 
 **ai**
 
