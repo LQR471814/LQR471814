@@ -26,6 +26,7 @@
 
 **ai**
 
+- [factgpt](https://github.com/LQR471814/factgpt) - reduce mental corruption while using ai.
 - [measure-detection](https://github.com/LQR471814/measure-detection) - a music score measure detection model for typeset scores.
 
 **configuration**
